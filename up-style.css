@@ -43,18 +43,30 @@
     padding: 20px 10px;
     margin-right: 600px;
     text-align: center;
+    justify-content: center;
+}
+.watch-live:hover{
+    background-color: white;    
+}
+.watch-live:hover a {
+     color: red;  
+}
+.watch-live:hover i{
+    color: red;  
 }
 .top-pic{
     width: 50%;
+    padding-right: 30px;
 }
 .top-pic img{
     margin-bottom: 0%;
     width: 100%;
     padding-top: 100px;
 }
-.fa-arrow-right{
+.fa-angle-right{
     color: white;
     font-size: 20px;
+    padding-left: 10px;
 }
 .sec-2-div-parent{
     display: flex;
@@ -85,7 +97,10 @@
     padding: 20px 50px;
     font-size: 20px;
     border-radius: 20px;
-
+}
+.Match a:hover{
+    background-color: white;
+    color: black;
 }
 .Group{
     margin-top: 70px;
@@ -96,7 +111,10 @@
     padding: 20px 90px;
     font-size: 20px;
     border-radius: 20px;
-     
+}
+.Group a:hover{
+    background-color: red;
+    color: white;
 }
 .Blogs{
     margin-top: 70px;
@@ -107,7 +125,10 @@
     padding: 20px 105px;
     font-size: 20px;
     border-radius: 20px;
-
+}
+.Blogs a:hover{
+    background-color: red;
+    color: white;
 }
 .con-2-div-2{
     width: 68%;
@@ -145,6 +166,7 @@
     margin-left: 20px;
     margin-bottom: 20px;
     text-align: center;
+     
 }
 .flag-img{
     display: flex;
