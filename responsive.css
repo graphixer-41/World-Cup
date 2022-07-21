@@ -47,15 +47,6 @@
         justify-content: center;
        
     }
-    .con-2 a{
-        display: none;
-        background-color: #f52929;
-        padding: 10px 0;
-        text-align: center;
-        color: white;
-        text-decoration: none;
-        margin-top: 40px;
-    }
     .blog-btn{
         padding-left: 80px;
         display: flex;
@@ -137,7 +128,7 @@
         border-radius: 10px;
     }
     .class-1 img{
-        width: 35%;
+        width: 100%;
     }
     .class-1 button{
         font-size: 15px;
@@ -177,7 +168,7 @@
         border-radius: 10px;
     }
     .class-2 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-2 button{
@@ -209,7 +200,7 @@
         border-radius: 10px;
     }
     .class-3 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-3 button{
@@ -241,7 +232,7 @@
         border-radius: 10px;
     }
     .class-4 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-4 button{
@@ -283,7 +274,7 @@
         font-weight: 600;
     }
     .class-5 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-5 h3{
@@ -306,7 +297,7 @@
         border-radius: 10px;
     }
     .class-6 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-6 button{
@@ -391,8 +382,6 @@
     }
     .con-2 a{
         background-color: #f52929;
-        padding: 10px 0;
-        text-align: center;
         color: white;
         text-decoration: none;
         margin-top: 40px;
@@ -440,7 +429,7 @@
         border-radius: 10px;
     }
     .class-1 img{
-        width: 35%;
+        width: 100%;
     }
     .class-1 button{
         font-size: 15px;
@@ -480,7 +469,7 @@
         border-radius: 10px;
     }
     .class-2 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-2 button{
@@ -512,7 +501,7 @@
         border-radius: 10px;
     }
     .class-3 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-3 button{
@@ -544,7 +533,7 @@
         border-radius: 10px;
     }
     .class-4 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-4 button{
@@ -586,7 +575,7 @@
         font-weight: 600;
     }
     .class-5 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-5 h3{
@@ -609,7 +598,7 @@
         border-radius: 10px;
     }
     .class-6 img{
-        width: 35%;
+        width: 100%;
          
     }
     .class-6 button{
@@ -705,15 +694,6 @@
     display: flex;
     width: 100%;
     justify-content: center;
-}
-.con-2 a{
-    display: none;
-    background-color: #f52929;
-    padding: 10px 0;
-    text-align: center;
-    color: white;
-    text-decoration: none;
-    margin-top: 40px;
 }
 .blog-btn{
     height: 315px;
