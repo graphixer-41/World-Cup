@@ -47,6 +47,15 @@
         justify-content: center;
        
     }
+    .con-2 a{
+        display: none;
+        background-color: #f52929;
+        padding: 10px 0;
+        text-align: center;
+        color: white;
+        text-decoration: none;
+        margin-top: 40px;
+    }
     .blog-btn{
         padding-left: 80px;
         display: flex;
@@ -696,6 +705,15 @@
     display: flex;
     width: 100%;
     justify-content: center;
+}
+.con-2 a{
+    display: none;
+    background-color: #f52929;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin-top: 40px;
 }
 .blog-btn{
     height: 315px;
