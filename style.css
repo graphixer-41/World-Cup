@@ -14,44 +14,28 @@
     margin-top: 50px;
     margin-bottom: 100px;
 }
-.con-1-parent{
+/* .con-1-parent{
     align-items: center;
     display: flex;
     width: 100%;
-}
-@media only screen and (min-width:600px) and (max-width:1480){
-    .con-1-parent{
-        background-color: aqua;
-        display: flex;
-        width: 100%;
-        align-items: center;
-    }
-    .heading-text h1{
-        font-size: 30px;
-        color: white;
-    }
-}
-
-
-@media only screen and (max-width:600px){
-    
-}
+} */
 .heading-text{
     width: 50%;
     padding-left: 100px;
 }
-.heading-text h1{
-    font-size: 100px;
+
+/* .heading-text h1{
+    font-size: 80px;
     color: white;
-}
-.heading-text p{
+} */
+/* .heading-text p{
     font-size: 22px;
     line-height: 30px;
     padding-top: 20px;
     margin-bottom: 50px;
     color: white;
-}
-.heading-text a{
+} */
+/* .heading-text a{
     text-decoration: none;
     color: white;
     font-size: 15px;
@@ -62,7 +46,7 @@
     padding: 20px 40px;
     text-align: center;
     justify-content: center;
-}
+} */
 .top-pic{
     width: 45%;
     padding-right: 30px;
@@ -72,80 +56,67 @@
     padding-top: 30px;
     margin-top: 100px;
 }
-.sec-2-div-parent{
+/* .sec-2-div-parent{
     display: flex;
     width: 100%;
-}
-.con-2-div-1{
-    width: 30%;
-}
+} */
 .fa-clock{
     margin-right: 5px;
 }
 .fa-comment{
     padding-right: 5px;
 }
-.up-coming{
+/* .con-2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+} */
+/* .blog-btn{
     height: 315px;
     width: 315px;
-    background-color: rgb(0, 8, 15);
-    margin-left: 150px;
-    padding: 20px;
-    text-align: center;
+    background-color: #161616;
+    width: 25%;
     border-radius: 10px;
 }
-.up-coming a{
+.blog-btn a {
+    display: block;
+    padding: 10px 20px;
+    border-radius: 5px;
     text-decoration: none;
-    color: white;
-}
-.Match{
-    margin-top: 52px;
-}
-.Match a{
-    color: black;
-    background-color: rgb(255, 253, 253);
-    padding: 20px 50px;
+    color: rgb(0, 0, 0);
     font-size: 20px;
-    border-radius: 20px;
+    background-color: #fffefe;
+    margin: 35px 20px;
+    text-align: center;
 }
-.Match a:hover{
-    background-color: red;
-    color: white;
-}
-.Group{
-    margin-top: 70px;
-}
-.Group a{
-    color: black;
-    background-color: rgb(255, 253, 253);
-    padding: 20px 90px;
+#blog{
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
     font-size: 20px;
-    border-radius: 20px;
-}
-.Group a:hover{
-    background-color: red;
-    color: white;
-}
-.Blogs{
-    margin-top: 70px;
-}
-.Blogs a{
-    background-color: rgb(231, 15, 15);
-    padding: 20px 105px;
-    font-size: 20px;
-    border-radius: 20px;
-}
-.Blogs a:hover{
-    background-color: white;
-    color: black;
-}
-.con-2-div-2{
+    background-color: #f52929;
+    margin: 35px 20px;
+    text-align: center;
+} */
+/* .con-2-div-2{
     width: 68%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 20px;
     grid-column-gap: 20px;
-}
+} */
+/* #group{
+    display: block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: #fffefe;
+    margin: 35px 20px;
+    text-align: center;
+} */
 .class-1{
     border: 1px solid rgb(224, 223, 223);
     border-radius: 10px;
@@ -419,20 +390,21 @@
 .footer h2{
     font-size: 50px;
 }
-hr{
+/* hr{
     margin-top: 100px;
     margin-left: 10%;
     margin-right: 10%;
     color: rgb(70, 69, 69);
-}
-.footer-list ul{
+} */
+/* .footer-list ul{
     margin-top: 50px;
     margin-bottom: 100px;
     display: flex;
     justify-content: space-between;
     margin-left: 25%;
     margin-right: 25%;
-}
+} */
+
 .footer-list ul li{
     list-style: none;
 }
@@ -443,4 +415,19 @@ hr{
 .footer-list ul li a:hover{
     color: red;
 }
+/* .footer p{
+    font-size: 15px;
+} */
+/* .social-icon a i{
+    color: white;
+    text-decoration: none;
+     margin-right: 40px;
+     font-size: 40px;
+     margin-bottom: 50px;
+     cursor: pointer;
+}
+.social-icon i:hover{
+    color: red;
+    
+} */
  
